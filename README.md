@@ -3,20 +3,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Vincent!
   
 </div>
-
-
 I'm a Senior Software Engineer at Tock (a SquareSpace company).
-
-
-###
-
-<div align="center">
-  
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnctaing&theme=shades-of-purple)
-  
-###
-</div>
-
 
 ---
 
@@ -37,9 +24,9 @@ I'm a Senior Software Engineer at Tock (a SquareSpace company).
 </div>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnctaing&hide=html,css,php&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnctaing&hide=html,css,php&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+###
 </div>
-
-
