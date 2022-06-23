@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Vincent!
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"> I'm Vincent!
   
 </div>
 I'm a Senior Software Engineer at Tock (a SquareSpace company).
