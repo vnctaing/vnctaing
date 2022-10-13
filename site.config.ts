@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: './vincent.sh | less',
+  domain: 'vnctaing.com',
   author: 'Vincent Taing',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Vincent Taing\'s blog',
 
   // social usernames (optional)
   github: 'vnctaing',
